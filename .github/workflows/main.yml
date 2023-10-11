@@ -3,7 +3,7 @@ name: Deploy page to Surge
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
